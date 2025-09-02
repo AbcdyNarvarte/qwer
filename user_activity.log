@@ -1,0 +1,11 @@
+2025-09-02 19:08:15,807 - INFO - User ID: qwerty1 | Username: romer | Feature: client | Operation: create | Action: Added client test | Details: Client name: testing, Email: testing@gmail.com | Time: 2025-09-02 19:08:15
+2025-09-02 19:08:58,083 - INFO - User ID: qwerty1 | Username: romer | Feature: supplier | Operation: create | Action: Added supplier test | Details: Supplier name: test1, Email: test@gmail.com | Time: 2025-09-02 19:08:58
+2025-09-02 19:09:06,869 - INFO - User ID: qwerty1 | Username: romer | Feature: supplier | Operation: search | Action: Searched for supplier 'test1' | Details: Found 1 results | Time: 2025-09-02 19:09:06
+2025-09-02 19:09:15,256 - INFO - User ID: qwerty1 | Username: romer | Feature: supplier | Operation: search | Action: Searched for supplier '' | Details: No results found | Time: 2025-09-02 19:09:15
+2025-09-02 19:09:35,010 - INFO - User ID: qwerty1 | Username: romer | Feature: client | Operation: delete | Action: Deleted client test | Details: Client name: testing | Time: 2025-09-02 19:09:35
+2025-09-02 19:11:36,856 - INFO - User ID: zxcvb | Username: abcd | Feature: supplier | Operation: search | Action: Searched for supplier '' | Details: No results found | Time: 2025-09-02 19:11:36
+2025-09-02 19:16:01,776 - INFO - User ID: test | Username: test_user | Feature: test | Operation: test | Action: test | Details: Testing if logger works | Time: 2025-09-02 19:16:01
+2025-09-02 19:17:38,535 - INFO - User ID: test2 | Username: test_user2 | Feature: inventory | Operation: test | Action: test_fix | Details: Testing if logger works after fix | Time: 2025-09-02 19:17:38
+2025-09-02 19:41:38,095 - INFO - User ID: zxcvb | Username: abcd | Feature: inventory | Operation: delete_material | Action: delete | Details: Deleted material ID: s, Name: steel | Time: 2025-09-02 19:41:38
+2025-09-02 19:41:53,001 - INFO - User ID: zxcvb | Username: abcd | Feature: mail | Operation: search_mail | Action: read | Details: Search for 'admin' returned no results | Time: 2025-09-02 19:41:53
+2025-09-02 19:42:01,397 - INFO - User ID: zxcvb | Username: abcd | Feature: mail | Operation: search_mail | Action: read | Details: Search for 'nick' returned no results | Time: 2025-09-02 19:42:01
